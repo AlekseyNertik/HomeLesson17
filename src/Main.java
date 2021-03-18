@@ -84,7 +84,6 @@ public class Main {
                     break;
             }
         }while (ask);
-
     }
 
     // Задание 1.
